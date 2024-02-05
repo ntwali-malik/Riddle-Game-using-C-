@@ -1,0 +1,14 @@
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\bin\Debug\net8.0\RiddleGame.exe
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\bin\Debug\net8.0\RiddleGame.deps.json
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\bin\Debug\net8.0\RiddleGame.runtimeconfig.json
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\bin\Debug\net8.0\RiddleGame.dll
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\bin\Debug\net8.0\RiddleGame.pdb
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\obj\Debug\net8.0\RiddleGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\obj\Debug\net8.0\RiddleGame.AssemblyInfoInputs.cache
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\obj\Debug\net8.0\RiddleGame.AssemblyInfo.cs
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\obj\Debug\net8.0\RiddleGame.csproj.CoreCompileInputs.cache
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\obj\Debug\net8.0\RiddleGame.dll
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\obj\Debug\net8.0\refint\RiddleGame.dll
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\obj\Debug\net8.0\RiddleGame.pdb
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\obj\Debug\net8.0\RiddleGame.genruntimeconfig.cache
+E:\AUCA\SEM 5\Dot Net\WorkSpace\RiddleGame\RiddleGame\obj\Debug\net8.0\ref\RiddleGame.dll
